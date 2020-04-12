@@ -8,7 +8,7 @@ const theme = {
     grayLight: '#C2C2C2',
     grayLighter: '#E5E5E5',
     offWhite: '#F8F8F8',
-    white: '#fff',
+    white: '#FFFFFF',
     purple: '#6E1EFF',
     purpleLight: '#D3BBFF',
     purpleLighter: '#F8F3FF',
@@ -18,13 +18,13 @@ const theme = {
   },
   space: [0, 4, 8, 16, 32, 64, 96, 128, 256],
   fonts: {
-    body: 'acumin-pro, sans-serif',
-    heading: 'acumin-pro, sans-serif',
+    body: 'neue-haas-grotesk-text, sans-serif',
+    heading: 'neue-haas-grotesk-display, sans-serif',
     monospace: 'Menlo, monospace',
   },
   fontWeights: {
     body: 400,
-    heading: 700,
+    heading: 600,
     bold: 700,
   },
   lineHeights: {
