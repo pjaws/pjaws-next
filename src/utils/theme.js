@@ -27,6 +27,9 @@ const theme = {
     heading: 600,
     bold: 700,
   },
+  letterSpacings: {
+    heading: '1em',
+  },
   lineHeights: {
     body: 1.5,
     heading: 1.25,

@@ -59,6 +59,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: ${theme.fonts.heading};
     font-weight: ${theme.fontWeights.heading};
     line-height: ${theme.lineHeights.heading};
+    letter-spacing: ${theme.letterSpacings.heading};
     text-rendering: optimizeLegibility;
   }
 
